@@ -1,6 +1,6 @@
 mongo
 =====
 Software Design 2014.06 P.162-167  
-Ububtu Monthly Report
+Ubuntu Monthly Report
 
 docker run -it rzpqyo/mongo /bin/bash
