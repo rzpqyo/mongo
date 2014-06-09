@@ -1,0 +1,3 @@
+{name:"naruhiko", sex:"male", hobbies:["kayak", "computer"], emails:["naruhiko@example.com"]}
+{name:"taro", sex:"male", age:20, hobbies:["computer", "cooking"]}
+{name:"hanako", sex:"female", hobbies:["cycling"]}
